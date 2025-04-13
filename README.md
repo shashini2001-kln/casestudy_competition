@@ -46,7 +46,7 @@ The project features:
 
 ## 🧩 Credits
 
-- **Team:** [Your Team Name / Members]
+- **Team:** [Trendsetters / Piumi Tharushika]
 - **Conference:** ISC 2024 – IASSL
 - **Partner Organization:** International Water Management Institute (IWMI)
 - **Data Source:** [MSWEP - https://www.gloh2o.org/mswep/](https://www.gloh2o.org/mswep/)
